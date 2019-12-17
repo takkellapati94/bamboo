@@ -1,0 +1,518 @@
+Protocol #,Country,Site #,Site Status,Site Enroll Status,PI Last Name,PI First Name,Account,Site Clin Complete - Actual,CTP Complete Date - Actual,Data Refresh Date
+AI266-205,USA,1,Active,Recruiting,Mirochnick,Mark,NIAID,,2/18/2011 0:00,8/31/2018
+AI266-959,USA,1,Clinically Complete,Completed,Hussaini,Azra,Parexel International - Baltimore Epcu,11/12/2015 0:00,7/3/2014 0:00,8/31/2018
+AI424-439,Romania,1,Active,Not Applicable,Benea,Otilia,"Matei Bals Infectious Disease, Bucharest",,3/23/2011 0:00,8/31/2018
+AI424-517,USA,1,Active,"Active, Not Recruiting",Mckenna,Carol,Senopsys Llc,,11/21/2014 0:00,8/31/2018
+AI424-526,Italy,1,Active,Not Applicable,Moroni,Mauro,Fondazione ICONA,,10/10/2014 0:00,8/31/2018
+AI424-530,USA,1,Active,Recruiting,Whitley,Kiera,"INC Research, LLC",,11/1/1999 0:00,8/31/2018
+AI424-556,USA,1,Active,Not Applicable,Paruolo,Joseph,University of South Florida,,4/21/2016 0:00,8/31/2018
+AI424-561,Italy,1,Active,Not Applicable,Carosi,G,Clinica Di Malattie,,10/7/2015 0:00,8/31/2018
+AI424-565,Netherlands,1,Active,Not Applicable,Vanwolleghem,Thomas,Erasmus Medical Center,,8/31/2016 0:00,8/31/2018
+AI424-570,USA,1,Active,Recruiting,Mcpherson,Tristan,New York Presbyterian Hospital,,12/21/2016 0:00,8/31/2018
+AI433-031,USA,1,Active,Recruiting,Hughes,Stephen,National Cancer Institute,,3/16/2015 0:00,8/31/2018
+AI434-022,USA,1,Active,Not Applicable,Swanstrom,Ronald,University Of North Carolina,,6/23/2014 0:00,8/31/2018
+AI434-024,USA,1,Active,Recruiting,Sutton,Richard,Yale University School Of Medicine,,7/23/2015 0:00,8/31/2018
+AI434-026,USA,1,Active,Recruiting,Mellors,John,University Of Pittsburgh,,10/8/2015 0:00,8/31/2018
+AI438-011,Argentina,12,Active,"Active, Not Recruiting",Altclas,Javier,Medeos,,11/30/2011 0:00,8/31/2018
+AI438-011,Argentina,13,Active,"Active, Not Recruiting",Cahn,Pedro,Fundacion Huesped,,2/1/2012 0:00,8/31/2018
+AI438-011,Argentina,14,Clinically Complete,Completed,Cassetti,Lidia Isabel,Helios Salud S.A.,1/14/2013 0:00,3/1/2012 0:00,8/31/2018
+AI438-011,Argentina,15,Active,"Active, Not Recruiting",Martins,Marcelo,Instituto Oulton,,1/19/2012 0:00,8/31/2018
+AI438-011,Argentina,55,Clinically Complete,Completed,Galindez,Jorge,Cibic -Centro De Diagnostico Medico De Alta Complejidad S.A.,12/6/2013 0:00,1/31/2012 0:00,8/31/2018
+AI438-011,Argentina,56,Active,"Active, Not Recruiting",Lupo,Sergio,Instituto Caici,,2/16/2012 0:00,8/31/2018
+AI438-011,Colombia,16,Active,"Active, Not Recruiting",Arango,Alvaro,Fundacion Cardioinfantil - Instituto De Cardiologia,,11/24/2011 0:00,8/31/2018
+AI438-011,Colombia,17,Active,"Active, Not Recruiting",Sussmann,Otto Alberto,Asistencia Cientifica De Alta Complejidad,,11/21/2011 0:00,8/31/2018
+AI438-011,Colombia,30,Cancelled,"Active, Not Recruiting",Alvarez,Carlos,Hospital Universitario San Ignacio,12/17/2013 0:00,6/6/2012 0:00,8/31/2018
+AI438-011,Germany,41,Active,"Active, Not Recruiting",Arasteh,Keikawus,Epimed Gmbh,,11/22/2011 0:00,8/31/2018
+AI438-011,Germany,42,Active,"Active, Not Recruiting",Bogner,Johannes,Lmu Medizinische Poliklinik,,11/1/2011 0:00,8/31/2018
+AI438-011,Germany,43,Active,Completed,Rockstroh,Juergen,Uniklinik,,5/23/2012 0:00,8/31/2018
+AI438-011,Germany,44,Active,"Active, Not Recruiting",Stoehr,Albrecht,Ifi-Studien Und Projekte Gmbh,,12/6/2016 0:00,8/31/2018
+AI438-011,Mexico,18,Active,"Active, Not Recruiting",Amaya,Gerardo,Hospital De Especialidades Del Centro Medico Puerta De Hierr,,5/11/2012 0:00,8/31/2018
+AI438-011,Mexico,19,Active,"Active, Not Recruiting",Andrade Villanueva,Jaime Federico,Hospital Civil Fray Antonio Alcalde,,1/17/2012 0:00,8/31/2018
+AI438-011,Mexico,20,Active,"Active, Not Recruiting",Granados Reyes,Enrique Rafael,Centro De Investigacion Clinica Gramel S.C.,,10/10/2011 0:00,8/31/2018
+AI438-011,Mexico,21,Active,Completed,Sierra Madero,Juan,Instituto Nacional De Ciencias Medicas Y Nutricion S.Z.,,3/27/2012 0:00,8/31/2018
+AI438-011,Mexico,29,Active,"Active, Not Recruiting",Trevino,Sandra Carlota,Mexico Centre For Clinical Research S.A. de C.V.,,9/26/2011 0:00,8/31/2018
+AI438-011,Mexico,53,Clinically Complete,Completed,Marquez,Francisco,Centenario Hospital Miguel Hidalgo,1/22/2013 0:00,6/11/2012 0:00,8/31/2018
+AI438-011,Mexico,54,Clinically Complete,"Active, Not Recruiting",Magana Aquino,Martin,Hospital Central Dr. Ignacio Morones Prieto,1/24/3013 0:00,5/30/2012 0:00,8/31/2018
+AI438-011,Peru,22,Active,Completed,Casapia Morales,Wilfredo Martin,Asociacion Civil Selva Amazonica (Acsa),,11/29/2011 0:00,8/31/2018
+AI438-011,Peru,23,Active,"Active, Not Recruiting",Echevarria Zarate,Juan Ignacio,Hospital Nacional Cayetano Heredia (Hnch),,12/27/2011 0:00,8/31/2018
+AI438-011,Peru,24,Active,Completed,Lama Valdivia,Javier Ricardo,"AC IMPACTA Salud y Educacion, Sede San Miguel",,2/13/2012 0:00,8/31/2018
+AI438-011,Peru,25,Active,"Active, Not Recruiting",Leon,Mey,Asociacion Civil Impacta Salud Y Educacion,,2/13/2012 0:00,8/31/2018
+AI438-011,Peru,26,Active,"Active, Not Recruiting",Mendo Urbina,Fernando Cruz,Hospital Nacional Edgardo Rebagliati Martins,,12/9/2011 0:00,8/31/2018
+AI438-011,Peru,27,Active,"Active, Not Recruiting",Salazar Castro,Magno Raul,Hospital Nacional Guillermo Almenara Irigoyen,,1/18/2012 0:00,8/31/2018
+AI438-011,Peru,28,Active,"Active, Not Recruiting",Pinedo,Yvett,Asociacion Civil Via Libre,,12/5/2011 0:00,8/31/2018
+AI438-011,Romania,37,Active,"Active, Not Recruiting",Diaconescu,Iulian Gheorghe,Spitalul Clinic De Boli Infect Si Pneumoftiziologie Craiova,,12/20/2011 0:00,8/31/2018
+AI438-011,Romania,38,Active,"Active, Not Recruiting",Prisacariu,Liviu,Spitalul Clinic De Boli Infectioase Iasi,,12/29/2011 0:00,8/31/2018
+AI438-011,Romania,39,Clinically Complete,Completed,Arama,Victoria,Institutul Ntl De Boli Infectioase Prof. Matei Bals,11/29/2013 0:00,12/29/2011 0:00,8/31/2018
+AI438-011,Romania,40,Clinically Complete,Completed,Rugina,Sorin,Spitalul Clinic De Boli Infectioase Constanta,12/5/2014 0:00,1/9/2012 0:00,8/31/2018
+AI438-011,Russian Federation,49,Active,"Active, Not Recruiting",Yakovlev,Alexey,Clinical Infectious Hospital #30 Named After S.P. Botkin,,1/10/2012 0:00,8/31/2018
+AI438-011,Russian Federation,50,Active,"Active, Not Recruiting",Zakharova,Natalia,St. Petersburg State Healthcare Instution,,1/10/2012 0:00,8/31/2018
+AI438-011,Russian Federation,51,Active,"Active, Not Recruiting",Tsybakova,Olga,Smolensk Center Of Aids And Infectious Diseases,,1/17/2012 0:00,8/31/2018
+AI438-011,Russian Federation,52,Active,"Active, Not Recruiting",Voronin,E.E.,Republican Clinical Infectious Hospital,,1/20/2012 0:00,8/31/2018
+AI438-011,South Africa,59,Planned,Not Recruiting,Pillay,Sundrapragasen,University Of Kwazulu-Natal,,,8/31/2018
+AI438-011,South Africa,32,Active,"Active, Not Recruiting",Fourie,Jan,Dr J Fourie Medical Centre,,10/7/2011 0:00,8/31/2018
+AI438-011,South Africa,33,Clinically Complete,"Active, Not Recruiting",Johnson,David,Dr David Johnson,9/8/2016 0:00,10/3/2011 0:00,8/31/2018
+AI438-011,South Africa,34,Active,"Active, Not Recruiting",Kaplan,Richard,Desmond Tutu Hiv Foundation,,11/1/2011 0:00,8/31/2018
+AI438-011,South Africa,35,Active,"Active, Not Recruiting",Latiff,Gulam,"Latiff, Gulam",,10/10/2011 0:00,8/31/2018
+AI438-011,South Africa,36,Cancelled,Cancelled,Steyn,Dewald,Parexel Bloemfontein,,6/21/2012 0:00,8/31/2018
+AI438-011,Spain,45,Clinically Complete,Completed,Arribas Lopez,Jose,Hospital Universitario La Paz,11/8/2013 0:00,12/15/2011 0:00,8/31/2018
+AI438-011,Spain,46,Clinically Complete,Completed,Clotet,Bonaventura,Hosp Unv Germans Trias I Pujol,12/18/2013 0:00,1/25/2012 0:00,8/31/2018
+AI438-011,Spain,47,Clinically Complete,Completed,Gatell,Josep,Hospital Clinic De Barcelona,11/21/2013 0:00,3/20/2012 0:00,8/31/2018
+AI438-011,Spain,48,Clinically Complete,Completed,Rivero,Antonio,Hospital Universitario Reina Sofia,2/19/2013 0:00,3/21/2012 0:00,8/31/2018
+AI438-011,USA,1,Active,"Active, Not Recruiting",Thompson,Melanie,Aids Research Consortium Of Atlanta,,8/18/2011 0:00,8/31/2018
+AI438-011,USA,2,Clinically Complete,Completed,Bardinas Rodriguez,Rogelio,Sanitas Research,8/13/2013 0:00,10/26/2011 0:00,8/31/2018
+AI438-011,USA,3,Clinically Complete,Completed,Dejesus,Edwin,Orlando Immunology Center,1/27/2015 0:00,7/29/2011 0:00,8/31/2018
+AI438-011,USA,4,Clinically Complete,Completed,Elion,Richard,Whitman Walker Health,8/21/2013 0:00,7/29/2011 0:00,8/31/2018
+AI438-011,USA,5,Active,"Active, Not Recruiting",Ernst,Jerome,Aids Com. Res. Init. Of Amer,,8/9/2011 0:00,8/31/2018
+AI438-011,USA,57,Active,"Active, Not Recruiting",Sloan,Louis,"North Texas Infectious Diseases Consultants, PA",,6/22/2012 0:00,8/31/2018
+AI438-011,USA,58,Planned,Not Recruiting,Ward,Douglas,Dupont Circle Physicians Group,,,8/31/2018
+AI438-011,USA,6,Clinically Complete,Completed,Hassler,Shawn,Benchmark Research,9/12/2013 0:00,8/12/2011 0:00,8/31/2018
+AI438-011,USA,7,Active,"Active, Not Recruiting",Mckellar,Mehri,Duke University Medical Center,,11/15/2011 0:00,8/31/2018
+AI438-011,USA,8,Active,"Active, Not Recruiting",Scribner,Anita Ruth,Dcol Center For Clinical Research,,10/2/2011 0:00,8/31/2018
+AI438-011,USA,9,Clinically Complete,Completed,Tebas,Pablo,University Of Pennsylvania,1/10/2013 0:00,12/8/2011 0:00,8/31/2018
+AI438-011,USA,10,Active,Completed,Lalezari,Jacob,Quest Clinical Research,,7/29/2011 0:00,8/31/2018
+AI438-011,USA,11,Active,"Active, Not Recruiting",Brinson,Cynthia,Central Texas Clinical Research,,12/6/2016 0:00,8/31/2018
+AI438-011,USA,31,Active,"Active, Not Recruiting",Fichtenbaum,Carl,University Of Cincinnati College Of Medicine,,1/27/2012 0:00,8/31/2018
+AI438-047,Argentina,5,Active,Recruiting,Cahn,Pedro,Fundacion Huesped,,10/21/2015 0:00,8/31/2018
+AI438-047,Argentina,6,Active,Recruiting,Cassetti,Lidia Isabel,Helios Salud S.A.,,9/16/2015 0:00,8/31/2018
+AI438-047,Argentina,7,Active,Recruiting,Lupo,Sergio,Caici,,9/14/2015 0:00,8/31/2018
+AI438-047,Argentina,8,Active,Recruiting,Cecchini,Diego,Hospital General De Agudos Dr. Cosme Argerich,,3/31/2016 0:00,8/31/2018
+AI438-047,Argentina,10,Active,Recruiting,Loiza,Eliana,Fundacion IDEAA,,11/4/2015 0:00,8/31/2018
+AI438-047,Argentina,11,Cancelled,Not Recruiting,Altclas,Javier,Medeos,,,8/31/2018
+AI438-047,Argentina,12,Active,Recruiting,Martins,Marcelo,Instituto Oulton,,9/17/2015 0:00,8/31/2018
+AI438-047,Argentina,25,Active,Recruiting,David,Daniel,Hospital Rawson,,11/18/2015 0:00,8/31/2018
+AI438-047,Argentina,49,Cancelled,Not Recruiting,Galindez,Jorge,Cibic -Centro De Diagnostico Medico De Alta Complejidad S.A.,,,8/31/2018
+AI438-047,Argentina,144,Cancelled,Not Recruiting,Hojman,Martin,Hospital Magdalena V. de Martinez,,,8/31/2018
+AI438-047,Argentina,145,Cancelled,Not Recruiting,Belloso,Waldo,Hospital Italiano De Buenos Aires,,,8/31/2018
+AI438-047,Argentina,181,Active,Recruiting,Zala,Carlos,Centro Medico Dra De Salvo,,11/27/2015 0:00,8/31/2018
+AI438-047,Australia,87,Active,Recruiting,Carr,Andrew,St Vincent'S Hospital (Nsw),,8/6/2015 0:00,8/31/2018
+AI438-047,Australia,88,Not Selected,On Hold,Quin,John,Liverpool Hospital,,,8/31/2018
+AI438-047,Australia,89,Active,Recruiting,McMahon,James,The Alfred Hospital,,8/7/2015 0:00,8/31/2018
+AI438-047,Australia,90,Clinically Complete,Recruiting,Roth,Norman,Prahran Market Clinic,7/11/2016 0:00,8/28/2015 0:00,8/31/2018
+AI438-047,Australia,91,Clinically Complete,Recruiting,Finlayson,Robert,Taylor Square Private Clinic,6/28/2016 0:00,7/29/2015 0:00,8/31/2018
+AI438-047,Australia,92,Not Selected,Not Recruiting,Shaw,David,Royal Adelaide Hospital,,,8/31/2018
+AI438-047,Belgium,1,Active,Recruiting,De Wit,Stephane,Centre Hospitalier Universitaire Saint-Pierre,,8/7/2015 0:00,8/31/2018
+AI438-047,Belgium,2,Active,Recruiting,Florence,Eric,"Florence , Eric",,7/24/2015 0:00,8/31/2018
+AI438-047,Belgium,3,Not Selected,Not Recruiting,Lacor,Patrick,Akademisch Ziekenhuis Vub,,,8/31/2018
+AI438-047,Belgium,157,Not Selected,Not Recruiting,Dhondt,Lionel,Chu Mont-Godinne,,,8/31/2018
+AI438-047,Brazil,113,Active,"Active, Not Recruiting",De Andrade Neto,Jose Luiz,Instituto A.Z. De Ensino E Pesquisa,,1/19/2016 0:00,8/31/2018
+AI438-047,Brazil,114,Active,"Active, Not Recruiting",Brites,Carlos,Ufba - Hospital Universitario Edgard Santos,,1/21/2016 0:00,8/31/2018
+AI438-047,Brazil,115,Clinically Complete,Completed,Lima,Maria Patelli,Inst. de Infectologia Campinas,10/27/2016 0:00,1/21/2016 0:00,8/31/2018
+AI438-047,Brazil,116,Active,"Active, Not Recruiting",Madruga,Jose Valdez,Centro De Referencia E Treinam,,1/14/2016 0:00,8/31/2018
+AI438-047,Brazil,117,Active,"Active, Not Recruiting",Sprinz,Eduardo,Hospital De Clinicas De Porto Alegre,,2/17/2016 0:00,8/31/2018
+AI438-047,Brazil,118,Active,"Active, Not Recruiting",Grinsztejn,Beatriz,Hospital Evandro Chagas Fiocruz,,1/18/2016 0:00,8/31/2018
+AI438-047,Brazil,119,Active,"Active, Not Recruiting",Della Negra,Marinella,Instituto De Infectologia Emilio Ribas,,2/4/2016 0:00,8/31/2018
+AI438-047,Brazil,122,Active,"Active, Not Recruiting",Diaz,Ricardo,Unifesp-Univ Federal S.Paulo,,1/26/2016 0:00,8/31/2018
+AI438-047,Brazil,123,Active,"Active, Not Recruiting",Morejon,Karen,Hospital Das Clinicas Da Fac. Med. Ribeirao Preto,,2/5/2016 0:00,8/31/2018
+AI438-047,Brazil,124,Active,"Active, Not Recruiting",Ribeiro,Flavia,Hosp Das Clinicas Da Universidade Federal De Minas Gerais,,1/21/2016 0:00,8/31/2018
+AI438-047,Canada,98,Active,Recruiting,Angel,Jonathan Benjamin,Ottawa General Hospital,,7/7/2015 0:00,8/31/2018
+AI438-047,Canada,99,Clinically Complete,Recruiting,Conway,Brian,Vancouver ID Reserach & Care Centre Society,9/29/2016 0:00,3/10/2015 0:00,8/31/2018
+AI438-047,Canada,100,Clinically Complete,Recruiting,Laplante,Francois,Clinique Medicale Du Quartier Latin,9/23/2016 0:00,6/8/2015 0:00,8/31/2018
+AI438-047,Canada,101,Clinically Complete,Recruiting,Hull,Mark,St Pauls Hospital,9/19/2016 0:00,7/20/2015 0:00,8/31/2018
+AI438-047,Canada,102,Clinically Complete,Recruiting,Loutfy,Mona,Maple Leaf Medical Clinic,10/11/2016 0:00,5/14/2015 0:00,8/31/2018
+AI438-047,Canada,104,Clinically Complete,Recruiting,Routy,Jean-Pierre,Montreal Chest Institute Of The Royal Victoria Hospital,9/12/2016 0:00,9/4/2015 0:00,8/31/2018
+AI438-047,Canada,105,Clinically Complete,Recruiting,Trottier,Sylvie,CHU de Quebec Research Centre,9/20/2016 0:00,10/2/2015 0:00,8/31/2018
+AI438-047,Canada,111,Active,Recruiting,Murray,Melanie,"BC Women's Hospital and Health Centre, Oak Tree Clinic",,10/28/2015 0:00,8/31/2018
+AI438-047,Canada,112,Active,Recruiting,Longpre,Daniele,Clinique Medicale Lactuel,,4/15/2015 0:00,8/31/2018
+AI438-047,Canada,120,Active,Recruiting,Walmsley,Sharon,The Toronto Hospital - General Division,,5/14/2015 0:00,8/31/2018
+AI438-047,Canada,179,Cancelled,Not Recruiting,Rachlis,Anita,Sunnybrook Health Sciences Centre,,,8/31/2018
+AI438-047,Chile,18,Active,Recruiting,Perez,Carlos,Pontifica Universidad Catolica De Chile,,1/20/2016 0:00,8/31/2018
+AI438-047,Chile,19,Active,Recruiting,Wolff,Marcelo,Fundacion Arriaran,,10/2/2015 0:00,8/31/2018
+AI438-047,Chile,20,Active,Recruiting,Chahin,Carolina,Hosp. Dr Hernan Henriquez Aravena / Unid. De Infectologia,,9/24/2015 0:00,8/31/2018
+AI438-047,Chile,27,Cancelled,Not Recruiting,Lasso,Martin,Hospital Sotero Del Rio,,,8/31/2018
+AI438-047,Chile,28,Active,Recruiting,Beltran,Carlos,Hospital Barros Luco,,10/2/2015 0:00,8/31/2018
+AI438-047,Chile,176,Active,Recruiting,Ballesteros,Juan,Centro Medico Gerter,,2/10/2016 0:00,8/31/2018
+AI438-047,Colombia,50,Clinically Complete,Recruiting,Sussmann Pena,Otto,Asistencia Cientifica De Alta Complejidad,7/12/2016 0:00,12/22/2015 0:00,8/31/2018
+AI438-047,Colombia,51,Active,Recruiting,Velez,Juan,Fundacion Valle de Lili,,10/26/2015 0:00,8/31/2018
+AI438-047,Colombia,52,Clinically Complete,Recruiting,Zuluaga,Ivan,Infectologos Asociados Ltda,12/3/2015 0:00,10/21/2015 0:00,8/31/2018
+AI438-047,Colombia,53,Clinically Complete,Recruiting,Rojas,Elsa,Centro de Atencion y Diagnostico de Enfermedades Infecciosas CDI S.A.,7/25/2016 0:00,10/26/2015 0:00,8/31/2018
+AI438-047,Colombia,54,Clinically Complete,Recruiting,Leal,Hector,Administradora Del Country S.A. - Clinica Del Country,8/11/2016 0:00,9/3/2015 0:00,8/31/2018
+AI438-047,France,60,Active,"Active, Not Recruiting",Molina,Jean Michel,Hopital Saint Louis,,4/22/2015 0:00,8/31/2018
+AI438-047,France,61,Active,Completed,Girard,Pierre-Marie,Hopital Saint Antoine,,6/17/2015 0:00,8/31/2018
+AI438-047,France,62,Active,"Active, Not Recruiting",Katlama,Christine,Groupe Hospitalier Pitie-Salpetriere,,6/29/2015 0:00,8/31/2018
+AI438-047,France,63,Clinically Complete,Completed,Landman,Roland,Hopital Bichat Claude Bernard,7/29/2016 0:00,6/18/2015 0:00,8/31/2018
+AI438-047,France,64,Active,"Active, Not Recruiting",Neau,Didier,Hopital Pellegrin,,4/16/2015 0:00,8/31/2018
+AI438-047,France,65,Active,"Active, Not Recruiting",Pialoux,Gilles,Hopital Tenon,,6/17/2015 0:00,8/31/2018
+AI438-047,France,66,Active,"Active, Not Recruiting",Poizot-Martin,Isabelle,Hopital Sainte Marguerite,,4/14/2015 0:00,8/31/2018
+AI438-047,France,67,Active,"Active, Not Recruiting",Raffi,Francois,Chu Nantes,,6/17/2015 0:00,8/31/2018
+AI438-047,France,68,Active,"Active, Not Recruiting",Salmon-Ceron,Dominique,Hopital Hotel Dieu,,6/19/2015 0:00,8/31/2018
+AI438-047,France,164,Clinically Complete,Not Recruiting,Ferry,Tristan,Hopital De La Croix Rousse,5/20/2016 0:00,6/19/2015 0:00,8/31/2018
+AI438-047,Germany,125,Active,"Active, Not Recruiting",Stephan,Christoph,Johann Wolfgang Goethe Universitaet,,9/1/2015 0:00,8/31/2018
+AI438-047,Germany,129,Active,"Active, Not Recruiting",Baumgarten,Axel,Zibp Infektiologie Berlin,,6/26/2015 0:00,8/31/2018
+AI438-047,Germany,130,Active,"Active, Not Recruiting",Bogner,Johannes,Lmu Medizinische Poliklinik,,7/23/2015 0:00,8/31/2018
+AI438-047,Germany,135,Active,"Active, Not Recruiting",Arasteh,Keikawus,EPIMED GmbH,,6/29/2015 0:00,8/31/2018
+AI438-047,Germany,137,Clinically Complete,"Active, Not Recruiting",Jensen,Bjoern,Uniklinikum Duesseldorf,9/19/2016 0:00,7/2/2015 0:00,8/31/2018
+AI438-047,Germany,138,Active,"Active, Not Recruiting",Hower,Martin,Klinikum Dortmund,,6/25/2015 0:00,8/31/2018
+AI438-047,Germany,140,Clinically Complete,"Active, Not Recruiting",Esser,Stefan,Universitaetsklinikum Essen,9/19/2016 0:00,8/12/2015 0:00,8/31/2018
+AI438-047,Germany,141,Clinically Complete,"Active, Not Recruiting",Jaeger,Hans,MUC Research,10/5/2016 0:00,7/28/2015 0:00,8/31/2018
+AI438-047,Germany,142,Active,"Active, Not Recruiting",Schuermann,Dirk,Campus Virchow Klinikum Der Charite,,7/14/2015 0:00,8/31/2018
+AI438-047,Germany,182,Active,"Active, Not Recruiting",Kern,Winfried V.,Universitaetsklinikum Freiburg,,9/15/2015 0:00,8/31/2018
+AI438-047,Greece,38,Active,Recruiting,Metallidis,Symeon,Axepa Hospital,,8/7/2015 0:00,8/31/2018
+AI438-047,Greece,39,Clinically Complete,Completed,Papadopoulos,Antonis,Attikon Hospital,9/22/2016 0:00,9/21/2015 0:00,8/31/2018
+AI438-047,Greece,40,Active,Terminated,Paparizos,Vassilios,Andreas Syngros Hospital,,7/10/2015 0:00,8/31/2018
+AI438-047,Ireland,29,Active,Recruiting,Mallon,Paddy,University College Dublin,,9/14/2015 0:00,8/31/2018
+AI438-047,Italy,31,Active,Recruiting,Lazzarin,Adriano,Irccs Ospedale S. Raffaele,,12/18/2015 0:00,8/31/2018
+AI438-047,Italy,32,Active,Recruiting,Antinori,Andrea,Azienda Ospedaliera Lazzaro Spallanzani,,2/26/2016 0:00,8/31/2018
+AI438-047,Italy,33,Active,Recruiting,Orofino,Giancarlo,Ospedale Amedeo Di Savoia,,4/11/2016 0:00,8/31/2018
+AI438-047,Italy,34,Active,Recruiting,Cauda,Roberto,Fondazione Policlinico Universitario A. Gemelli,,4/1/2016 0:00,8/31/2018
+AI438-047,Italy,35,Active,Recruiting,Gori,Andrea,ASST Monza,,3/7/2016 0:00,8/31/2018
+AI438-047,Italy,36,Active,Recruiting,Mussini,Cristina,A.O. Policlinico Di Modena,,3/30/2016 0:00,8/31/2018
+AI438-047,Italy,37,Active,Recruiting,Rizzardini,Giuliano,ASST Fatebenefratelli Sacco,,2/23/2016 0:00,8/31/2018
+AI438-047,Mexico,108,Clinically Complete,Completed,Andrade Villanueva,Jaime Federico,Hospital Civil Fray Antonio Alcalde,9/14/2016 0:00,11/18/2015 0:00,8/31/2018
+AI438-047,Mexico,109,Active,"Active, Not Recruiting",Santoscoy Gomez,Mario Alberto,Centro Glucomedi Sc,,12/9/2015 0:00,8/31/2018
+AI438-047,Mexico,110,Active,"Active, Not Recruiting",Trevino,Sandra Carlota,Mexico Centre For Clinical Research S.A. de C.V.,,10/26/2015 0:00,8/31/2018
+AI438-047,Mexico,126,Active,"Active, Not Recruiting",Belaunzaran Zamudio,Pablo Francisco,Instituto Nacional De Ciencias Medicas Y Nutricion S.Z.,,12/18/2015 0:00,8/31/2018
+AI438-047,Mexico,127,Active,"Active, Not Recruiting",Duque Rodriguez,Jorge,"Centro Ambulatorio de Prevencion y Atencion en SIDA e ITS, CAPASITS Chihuahua",,11/23/2015 0:00,8/31/2018
+AI438-047,Mexico,128,Active,"Active, Not Recruiting",Romero Cabello,Raul,Instituto para el DeSarrollo Integral de la Salud S de RL de CV,,12/14/2015 0:00,8/31/2018
+AI438-047,Mexico,191,Cancelled,Cancelled,Reyes Teran,Gustavo,Instituto Nacional De Enfermedades Respiratorias,,,8/31/2018
+AI438-047,Netherlands,4,Clinically Complete,Completed,Hoepelman,I.M,University Medical Centre Utrecht,8/23/2016 0:00,12/9/2015 0:00,8/31/2018
+AI438-047,Netherlands,9,Not Selected,Not Recruiting,Den Hollander,Jan,Maasstad Ziekenhuis Rotterdam,,,8/31/2018
+AI438-047,Norway,139,Cancelled,Not Applicable,Bergersen,Bente Magny,"Oslo Universitetssykehus Hf, Ulleval",,,8/31/2018
+AI438-047,Peru,13,Clinically Complete,Completed,Casapia Morales,Wilfredo Martin,Asociacion Civil Selva Amazonica (Acsa),6/28/2016 0:00,12/30/2015 0:00,8/31/2018
+AI438-047,Peru,14,Clinically Complete,Completed,Echevarria,Juan,Hospital Nacional Cayetano Heredia,6/20/2016 0:00,12/4/2015 0:00,8/31/2018
+AI438-047,Peru,15,Active,"Active, Not Recruiting",Mendo,Fernando,Hospital Nacional Edgardo Rebagliati Martins,,3/29/2016 0:00,8/31/2018
+AI438-047,Peru,16,Active,"Active, Not Recruiting",Pinedo,Yvett,Asociacion Civil Via Libre,,11/4/2015 0:00,8/31/2018
+AI438-047,Peru,17,Clinically Complete,Completed,Lucchetti,Aldo Javier,Hospital Nacional Arzobispo Loayza,6/17/2016 0:00,12/16/2015 0:00,8/31/2018
+AI438-047,Poland,70,Active,"Active, Not Recruiting",Knysz,Brygida,EMC Instytut Medyczny S.A Przychodnia przy ul. Lowieckiej,,10/7/2015 0:00,8/31/2018
+AI438-047,Poland,71,Not Selected,Not Recruiting,Garlicki,Aleksander,Oddzial Kliniczny Chorob Zakaznych,,,8/31/2018
+AI438-047,Poland,72,Not Selected,Not Recruiting,Halota,Waldemar,Oddzial Internistyczno-Zakazny i Niedoborow Odpornosciowych,,,8/31/2018
+AI438-047,Poland,73,Active,"Active, Not Recruiting",Parczewski,Milosz,NZOZ Poradnia Diabetologiczno-Internistyczna,,10/7/2015 0:00,8/31/2018
+AI438-047,Poland,143,Clinically Complete,Completed,Pulik,Piotr,Centrum Diagnostyki i Terapii AIDS,6/24/2016 0:00,10/28/2015 0:00,8/31/2018
+AI438-047,Portugal,133,Active,"Active, Not Recruiting",Maltez,Fernando,Hospital De Curry Cabral,,11/30/2015 0:00,8/31/2018
+AI438-047,Portugal,134,Clinically Complete,"Active, Not Recruiting",Sarmento E Castro,Rui,Hospital Joaquim Urbano,7/22/2016 0:00,11/11/2015 0:00,8/31/2018
+AI438-047,Portugal,136,Active,"Active, Not Recruiting",Janeiro,Nuno,"Centro Hospitalar Lisboa Norte, Epe - Hospital De Santa Mari",,12/10/2015 0:00,8/31/2018
+AI438-047,Puerto Rico,48,Active,Recruiting,Morales Ramirez,Javier,Clinical Research Puerto Rico,,3/2/2015 0:00,8/31/2018
+AI438-047,Romania,76,Active,"Active, Not Recruiting",Streinu Cercel,Adrian,"Matei Bals Infectious Disease, Bucharest",,11/2/2015 0:00,8/31/2018
+AI438-047,Romania,77,Active,"Active, Not Recruiting",Preotescu,Liliana,"Matei Bals Infectious Disease, Bucharest",,10/30/2015 0:00,8/31/2018
+AI438-047,Russian Federation,93,Cancelled,Not Recruiting,Zakharova,Natalia,St Petersburg AIDS Center,,,8/31/2018
+AI438-047,Russian Federation,94,Clinically Complete,Completed,Pokrovsky,V.V,Central Research Institute Of Epidemiology,6/30/2016 0:00,3/1/2016 0:00,8/31/2018
+AI438-047,Russian Federation,95,Cancelled,Not Recruiting,Gankina,Natalia,Regional Aids And Infectious Diseases Center,,,8/31/2018
+AI438-047,Russian Federation,96,Not Selected,Not Recruiting,Yakovlev,Alexey,Clinical Infectious Hospital #30 Named After S.P. Botkin,,,8/31/2018
+AI438-047,Russian Federation,97,Cancelled,Not Recruiting,Shimonova,Tatiana,Infectious Clinical Hospital #2 (Moscow City Hiv Centre),,,8/31/2018
+AI438-047,Russian Federation,106,Clinically Complete,Completed,Riamova,Elena,Sverdlovsk Regional Center of AIDS prevention and treatment,10/28/2016 0:00,2/29/2016 0:00,8/31/2018
+AI438-047,Russian Federation,107,Not Selected,Not Recruiting,Ketova,Galina,Regional center of AIDS and infectious diseases prevention and treatment,,,8/31/2018
+AI438-047,Russian Federation,168,Cancelled,Not Recruiting,Shuldyakov,Andrey,Saratov Regional Aids And Infectious Deseases Center,,,8/31/2018
+AI438-047,Russian Federation,175,Clinically Complete,Completed,Plotnikova,Yulia,Irkutsk AIDS Regional center,9/28/2016 0:00,3/16/2016 0:00,8/31/2018
+AI438-047,Russian Federation,192,Clinically Complete,"Active, Not Recruiting",Kulagin,Valeriy,Centre For Aids And Infec. Diseas. Treatm. And Prophylaxis,10/12/2016 0:00,3/23/2016 0:00,8/31/2018
+AI438-047,South Africa,147,Clinically Complete,Terminated,Chetty,Uthestra,The Aurum Institute,5/5/2016 0:00,9/9/2015 0:00,8/31/2018
+AI438-047,South Africa,148,Cancelled,Not Recruiting,Farisani,Livhuwani,Synexus Clinical Research Sa,,,8/31/2018
+AI438-047,South Africa,149,Clinically Complete,Recruiting,Fourie,Jan,Dr J Fourie Medical Centre,5/23/2016 0:00,8/13/2015 0:00,8/31/2018
+AI438-047,South Africa,150,Active,Recruiting,Latiff,Gulam,Private Practice,,8/14/2015 0:00,8/31/2018
+AI438-047,South Africa,151,Clinically Complete,Recruiting,Lombaard,Johannes,Josha Research,6/14/2016 0:00,10/5/2015 0:00,8/31/2018
+AI438-047,South Africa,152,Clinically Complete,Recruiting,Malan,Daniel,Phoenix Pharma (Pty) Ltd,6/7/2016 0:00,7/17/2015 0:00,8/31/2018
+AI438-047,South Africa,153,Active,Recruiting,Mitha,Ismail,Lakeview Hospital,,8/13/2015 0:00,8/31/2018
+AI438-047,South Africa,154,Clinically Complete,Recruiting,Orrell,Catherine,Desmond Tutu Hiv Foundation,5/10/2016 0:00,8/20/2015 0:00,8/31/2018
+AI438-047,South Africa,155,Clinically Complete,Recruiting,Rassool,Mohammed,Clinical HIV Research Unit,5/6/2016 0:00,9/10/2015 0:00,8/31/2018
+AI438-047,South Africa,156,Clinically Complete,Recruiting,van Schalkwyk,Marije,Kidcru Ward J8,7/6/2016 0:00,11/2/2015 0:00,8/31/2018
+AI438-047,Spain,74,Clinically Complete,Completed,Antela,Antonio,Hospital Clinico De Santiago,6/7/2016 0:00,7/23/2015 0:00,8/31/2018
+AI438-047,Spain,75,Active,"Active, Not Recruiting",Moreno,Santiago,Hospital Ramon Y Cajal,,6/25/2015 0:00,8/31/2018
+AI438-047,Spain,79,Clinically Complete,Completed,Blanco,Jose,Hospital Clinic De Barcelona,6/23/2016 0:00,7/2/2015 0:00,8/31/2018
+AI438-047,Spain,80,Active,"Active, Not Recruiting",Llibre,Josep,Hosp Unv Germans Trias I Pujol,,6/22/2015 0:00,8/31/2018
+AI438-047,Spain,81,Active,"Active, Not Recruiting",Pineda,Juan Antonio,Hospital Universitario De Valme,,11/5/2015 0:00,8/31/2018
+AI438-047,Taiwan,21,Active,Recruiting,Hung,Chien-Ching,National Taiwan University Hospital,,1/21/2016 0:00,8/31/2018
+AI438-047,Taiwan,26,Clinically Complete,Recruiting,Tsai,Hung-Chin,Kaohsiung Veterans General Hospital,5/27/2016 0:00,1/26/2016 0:00,8/31/2018
+AI438-047,USA,42,Active,"Active, Not Recruiting",Berhe,Mezgebe,North Texas Infectious Disease Consultants,,4/14/2015 0:00,8/31/2018
+AI438-047,USA,43,Active,"Active, Not Recruiting",Kumar,Princy,Georgetown University Hospital,,5/29/2015 0:00,8/31/2018
+AI438-047,USA,44,Active,"Active, Not Recruiting",Dejesus,Edwin,Orlando Immunology Center,,2/13/2015 0:00,8/31/2018
+AI438-047,USA,45,Active,"Active, Not Recruiting",Kozal,Michael,Yale University,,4/28/2015 0:00,8/31/2018
+AI438-047,USA,46,Active,"Active, Not Recruiting",Jain,Mamta,UT Southwestern Medical Center,,6/30/2015 0:00,8/31/2018
+AI438-047,USA,47,Cancelled,Not Recruiting,Jayaweera,Dushyantha,University of Miami,,,8/31/2018
+AI438-047,USA,55,Active,"Active, Not Recruiting",Ramgopal,Moti,Midway Immunology And Research Center,,3/6/2015 0:00,8/31/2018
+AI438-047,USA,56,Active,"Active, Not Recruiting",Lennox,Jeffrey,Emory University School Of Medicine,,5/21/2015 0:00,8/31/2018
+AI438-047,USA,57,Active,"Active, Not Recruiting",Towner,William,Kaiser Permanente Medical Center,,4/25/2015 0:00,8/31/2018
+AI438-047,USA,58,Active,"Active, Not Recruiting",Lalezari,Jacob,Quest Clinical Research,,3/1/2015 0:00,8/31/2018
+AI438-047,USA,59,Active,"Active, Not Recruiting",Thompson,Melanie,"Aids Research Consortium Of Atlanta, Inc.",,3/13/2015 0:00,8/31/2018
+AI438-047,USA,69,Active,"Active, Not Recruiting",Osiyemi,Olayemi,"Triple O Research Institute, P.A.",,4/22/2015 0:00,8/31/2018
+AI438-047,USA,78,Active,"Active, Not Recruiting",Mcgowan,Joseph,North Shore University Hospital,,8/24/2015 0:00,8/31/2018
+AI438-047,USA,82,Active,"Active, Not Recruiting",Grossberg,Robert,Montefiore Medical Center,,6/18/2015 0:00,8/31/2018
+AI438-047,USA,83,Active,"Active, Not Recruiting",Fichtenbaum,Carl,University Of Cincinnati College Of Medicine,,9/3/2015 0:00,8/31/2018
+AI438-047,USA,84,Clinically Complete,On Hold,Nahass,Ronald,Id Care,7/18/2016 0:00,4/23/2015 0:00,8/31/2018
+AI438-047,USA,85,Active,"Active, Not Recruiting",Wilkin,Timothy,Weill Cornell Medical College,,7/27/2015 0:00,8/31/2018
+AI438-047,USA,86,Active,"Active, Not Recruiting",Gupta,Samir,Indiana University Infectious Diseases,,5/4/2015 0:00,8/31/2018
+AI438-047,USA,103,Active,"Active, Not Recruiting",Loftus,Richard,"Palmtree Clinical Research, Inc.",,3/23/2015 0:00,8/31/2018
+AI438-047,USA,121,Active,"Active, Not Recruiting",Mckellar,Mehri,Duke University Medical Center,,6/24/2015 0:00,8/31/2018
+AI438-047,USA,131,Active,"Active, Not Recruiting",Haas,Frances,Healthcare Research Consultants,,3/27/2015 0:00,8/31/2018
+AI438-047,USA,132,Active,"Active, Not Recruiting",Drelichman,Vilma,Newland Medical Associates,,7/27/2015 0:00,8/31/2018
+AI438-047,USA,146,Cancelled,Not Recruiting,Koletar,Susan,"Ohio State University, Division Of Infectious Diseases",,,8/31/2018
+AI438-047,USA,158,Clinically Complete,"Active, Not Recruiting",Johnson,Marc,Carolinas Healthcare System,6/6/2016 0:00,8/18/2015 0:00,8/31/2018
+AI438-047,USA,159,Active,"Active, Not Recruiting",Creticos,Catherine,Howard Brown Health Center,,5/27/2015 0:00,8/31/2018
+AI438-047,USA,160,Clinically Complete,Completed,Davis,Charles,University Of Maryland At Baltimore,7/13/2016 0:00,7/27/2015 0:00,8/31/2018
+AI438-047,USA,161,Clinically Complete,"Active, Not Recruiting",Casey,Kathleen,Jersey Shore University Medical Center,5/13/2016 0:00,9/30/2015 0:00,8/31/2018
+AI438-047,USA,162,Clinically Complete,"Active, Not Recruiting",Pollard,Richard,Uc Davis Medical Center Hospital,5/12/2016 0:00,10/28/2015 0:00,8/31/2018
+AI438-047,USA,163,Active,"Active, Not Recruiting",Schrader,Shannon,Research Access Network,,6/8/2015 0:00,8/31/2018
+AI438-047,USA,165,Clinically Complete,Completed,Sims,James,St. Hope Foundation,5/12/2016 0:00,5/29/2015 0:00,8/31/2018
+AI438-047,USA,166,Active,"Active, Not Recruiting",Mills,Anthony,Anthony M. Mills Md Inc,,4/20/2015 0:00,8/31/2018
+AI438-047,USA,167,Active,"Active, Not Recruiting",Durand,Christine,Johns Hopkins Medical Institute,,8/19/2015 0:00,8/31/2018
+AI438-047,USA,169,Clinically Complete,Completed,Dube,Michael,Rand Schrader Clinic,8/2/2016 0:00,1/27/2016 0:00,8/31/2018
+AI438-047,USA,170,Active,"Active, Not Recruiting",Lubelchek,Ronald,The Core Center,,6/30/2015 0:00,8/31/2018
+AI438-047,USA,171,Active,"Active, Not Recruiting",Tebas,Pablo,University Of Pennsylvania,,10/5/2015 0:00,8/31/2018
+AI438-047,USA,172,Active,"Active, Not Recruiting",Eron,Joseph J.,Unc Chapel Hill,,5/19/2015 0:00,8/31/2018
+AI438-047,USA,173,Clinically Complete,Not Applicable,Jordan,Wilbert,Oasis Clin. King-Drew Med Ctr,3/26/2016 0:00,6/26/2015 0:00,8/31/2018
+AI438-047,USA,174,Active,"Active, Not Recruiting",Aberg,Judith,Icahn School Of Medicine At Mount Sinai,,8/7/2015 0:00,8/31/2018
+AI438-047,USA,177,Clinically Complete,Completed,King,William,W King Health Care Group,6/22/2016 0:00,6/29/2015 0:00,8/31/2018
+AI438-047,USA,178,Cancelled,Not Recruiting,Pau,Alice,National Institute Of Health,,,8/31/2018
+AI438-047,USA,180,Active,"Active, Not Recruiting",Campbell,Thomas,University Of Colorado Denver,,7/6/2015 0:00,8/31/2018
+AI438-047,USA,183,Clinically Complete,Completed,Goldstein,Deborah,Whitman Walker Health,6/8/2016 0:00,6/18/2015 0:00,8/31/2018
+AI438-047,USA,184,Active,"Active, Not Recruiting",Hagins,Debbie,Chatham County Health Department,,6/2/2015 0:00,8/31/2018
+AI438-047,USA,185,Active,"Active, Not Recruiting",Wurcel,Alysse,Tufts Medical Center,,6/30/2015 0:00,8/31/2018
+AI438-047,USA,186,Clinically Complete,"Active, Not Recruiting",Cunningham,Douglas,Pueblo Family Physicians Ltd,7/1/2016 0:00,7/7/2015 0:00,8/31/2018
+AI438-047,USA,187,Clinically Complete,"Active, Not Recruiting",Collier,Ann,Harborview Medical Center,6/17/2016 0:00,12/16/2015 0:00,8/31/2018
+AI438-047,USA,188,Cancelled,Not Recruiting,Stephens,Jeffrey,Mercer University,,,8/31/2018
+AI438-047,USA,189,Active,"Active, Not Recruiting",Bartczak,Jennifer,"Rowan Tree Medical, P.A.",,8/7/2015 0:00,8/31/2018
+AI438-047,USA,190,Clinically Complete,"Active, Not Recruiting",Karris,Maile,Ucsd Antiviral Research Center (Avrc),5/31/2016 0:00,11/16/2015 0:00,8/31/2018
+AI438-047,USA,193,Cancelled,Not Recruiting,Fessel,Jeffrey,Kaiser Permanente Medical Center Clinical Trials Unit,,,8/31/2018
+AI438-047,USA,194,Active,"Active, Not Recruiting",Slim,Jihad,Saint Michaels Medical Center,,3/2/2016 0:00,8/31/2018
+AI438-047,United Kingdom,22,Active,Recruiting,Pozniak,Anton,Chelsea & Westminster Hospital,,10/7/2015 0:00,8/31/2018
+AI438-047,United Kingdom,23,Clinically Complete,Recruiting,Hay,Phillip,St George'S Hospital Medical School,9/8/2016 0:00,11/16/2015 0:00,8/31/2018
+AI438-047,United Kingdom,24,Clinically Complete,Recruiting,Leen,Clifford,Western General Hospital,9/5/2016 0:00,1/19/2016 0:00,8/31/2018
+AI438-047,United Kingdom,30,Clinically Complete,Completed,Herieka,Elbushra,Royal Bournemouth Hospital,8/12/2016 0:00,10/14/2015 0:00,8/31/2018
+AI438-080,United Kingdom,41,Clinically Complete,Recruiting,Sahota,Amandip,Leicester Royal Infirmary,7/15/2016 0:00,11/16/2015 0:00,8/31/2018
+AI443-144,USA,1,Active,Completed,Kam,Jeanelle,Covance Dallas Clinical Research Unit,,8/16/2016 0:00,8/31/2018
+AI443-147,Japan,1,Active,Recruiting,Itagaki,Shuji,EPS Corporation,,1/1/2018 0:00,8/31/2018
+AI443-148,Japan,1,Active,Recruiting,Sasaki,Yutaka,Kumamoto University Hospital,,3/30/2018 0:00,8/31/2018
+AI443-149,Japan,1,Active,Recruiting,Yoshiji,Hitoshi,Nara Medical University Hospital,,9/25/2017 0:00,8/31/2018
+AI444-046,Japan,1,Active,"Active, Not Recruiting",Nakamuta,Makoto,National Hospital Organization Kyushu Med Ctr,,1/15/2018 0:00,8/31/2018
+AI444-046,Argentina,176,Clinically Complete,Completed,Corral,Jorge,Centro Oncologico Integral,8/24/2016 0:00,10/1/2013 0:00,8/31/2018
+AI444-046,Argentina,177,Clinically Complete,Completed,Fainboim,Hugo,Ciprec,11/18/2016 0:00,10/23/2013 0:00,8/31/2018
+AI444-046,Argentina,29,Clinically Complete,Completed,Bessone,Fernando,Instituto Centralizado De Asistencia E Investigacion Clinica,2/16/2016 0:00,8/13/2012 0:00,8/31/2018
+AI444-046,Argentina,30,Clinically Complete,Completed,Gadano,Adrian,Hospital Italiano De Buenos Aires,4/28/2016 0:00,8/2/2012 0:00,8/31/2018
+AI444-046,Argentina,31,Clinically Complete,Completed,Romero,Gustavo,Fundacion Cidea De Paraguay,5/19/2016 0:00,12/3/2012 0:00,8/31/2018
+AI444-046,Argentina,32,Clinically Complete,Completed,Silva,Marcelo,Hospital Austral,4/28/2017 0:00,6/7/2012 0:00,8/31/2018
+AI444-046,Australia,167,Cancelled,Not Recruiting,Thompson,Alexander,St Vincents Hospital,,,8/31/2018
+AI444-046,Australia,168,Not Selected,Not Applicable,Crawford,Darrell,Greenslopes Private Hospital Dispensary,,,8/31/2018
+AI444-046,Australia,169,Cancelled,Not Recruiting,Zekry,Amany,St. George Private Hospital,,,8/31/2018
+AI444-046,Australia,170,Cancelled,Not Recruiting,MacQuillan,Gerry,Sir Charles Gairdner Hospital,,,8/31/2018
+AI444-046,Australia,171,Clinically Complete,Completed,Bloch,Mark,Holdsworth House Medical Practice,8/30/2016 0:00,9/10/2013 0:00,8/31/2018
+AI444-046,Australia,172,Not Selected,Not Applicable,Weltman,Martin,Nepean Hospital,,,8/31/2018
+AI444-046,Australia,79,Clinically Complete,Completed,Sievert,William,Monash Medical Center,3/27/2018 0:00,1/24/2013 0:00,8/31/2018
+AI444-046,Australia,81,Clinically Complete,Terminated,Roberts,Stuart,The Alfred Hospital,1/29/2014 0:00,3/5/2013 0:00,8/31/2018
+AI444-046,Australia,82,Clinically Complete,Completed,Riordan,Stephen,Prince Of Wales Hospital,10/27/2015 0:00,8/21/2012 0:00,8/31/2018
+AI444-046,Australia,83,Clinically Complete,Completed,Dore,Gregory,St Vincent'S Hospital (Nsw),4/5/2018 0:00,10/4/2012 0:00,8/31/2018
+AI444-046,Australia,84,Cancelled,Cancelled,Cheng,Wendy,Royal Perth Hospital,,,8/31/2018
+AI444-046,Australia,85,Cancelled,Cancelled,Mollison,Lindsay,Fremantle Hospital,,,8/31/2018
+AI444-046,Australia,86,Clinically Complete,Completed,Strasser,Simone,Royal Prince Alfred Hospital,4/14/2016 0:00,8/20/2012 0:00,8/31/2018
+AI444-046,Australia,87,Cancelled,Cancelled,Galhenage,Sumedha,Fremantle Hospital,,,8/31/2018
+AI444-046,Australia,88,Clinically Complete,Completed,Tse,Edmund,Royal Adelaide Hospital,3/29/2018 0:00,6/21/2012 0:00,8/31/2018
+AI444-046,Australia,89,Clinically Complete,Completed,Macdonald,Graeme,Pathology Queensland Princess Alexandra Hospital,4/21/2016 0:00,9/25/2012 0:00,8/31/2018
+AI444-046,Australia,90,Clinically Complete,Completed,George,Jacob,Westmead Hospital,4/29/2016 0:00,2/4/2013 0:00,8/31/2018
+AI444-046,Australia,91,Cancelled,Cancelled,Angus,Peter,Austin Health,,,8/31/2018
+AI444-046,Brazil,104,Active,Completed,Cheinquer,Hugo,Hospital De Clinicas De Porto Alegre,,10/17/2014 0:00,8/31/2018
+AI444-046,Brazil,105,Cancelled,Not Recruiting,Ferreira Filho,Raymundo Parana,Universidade Federal Da Bahia,,,8/31/2018
+AI444-046,Brazil,106,Clinically Complete,Completed,Abrao Ferreira,Paulo,Unifesp-Univ Federal S.Paulo,8/20/2018 0:00,2/25/2015 0:00,8/31/2018
+AI444-046,Brazil,107,Cancelled,Not Recruiting,Goncales,Fernando Lopes,Unicamp,,,8/31/2018
+AI444-046,Brazil,108,Active,Completed,Grinsztejn,Beatriz,Hospital Evandro Chagas Fiocruz,,2/9/2015 0:00,8/31/2018
+AI444-046,Brazil,109,Cancelled,Not Recruiting,Mendes Correa,Maria Cassia,Hospital Das Clinicas Da Faculdade De Medicina Da Universida,,,8/31/2018
+AI444-046,Brazil,110,Cancelled,Not Recruiting,Ferraz,Maria Lucia,Unifesp-Univ Federal S.Paulo,,,8/31/2018
+AI444-046,Brazil,111,Cancelled,Not Recruiting,Pereira,Patricia,Fundacao Faculdade Regional De Medicina S J Rio Preto,,,8/31/2018
+AI444-046,Brazil,112,Cancelled,Not Recruiting,Lyra,Andre Castro,Hospital Sao Rafael,,,8/31/2018
+AI444-046,Brazil,113,Cancelled,Not Recruiting,Parise,Edison,Unifesp-Univ Federal S.Paulo,,,8/31/2018
+AI444-046,Brazil,114,Cancelled,Not Recruiting,Coelho,Henrique Sergio,Hospital Universitario Clementino Fraga Filho,,,8/31/2018
+AI444-046,Brazil,115,Cancelled,Not Recruiting,Santos,Eliana,Clinica de Doencas Infecciosas e Parasitarias,,,8/31/2018
+AI444-046,Brazil,116,Cancelled,Not Recruiting,De Andrade Neto,Jose Luiz,Instituto A-Z De Pesquisa E Ensino,,,8/31/2018
+AI444-046,Brazil,166,Active,Completed,Brandao Mello,Carlos Eduardo,Hospital Univ.Gaffree Guinle,,2/24/2015 0:00,8/31/2018
+AI444-046,Canada,165,Clinically Complete,Recruiting,Conway,Brian,Vancouver ID Research and Care Centre Society,1/29/2018 0:00,4/5/2013 0:00,8/31/2018
+AI444-046,Canada,192,Cancelled,Not Recruiting,Elkhashab,Magdy,Toronto Liver Centre,,,8/31/2018
+AI444-046,Canada,219,Clinically Complete,Recruiting,Wong,Alexander,Regina General Hospital,3/28/2018 0:00,8/15/2017 0:00,8/31/2018
+AI444-046,Canada,220,Clinically Complete,Recruiting,Wong,Florence,Toronto General Hospital,6/7/2018 0:00,7/21/2017 0:00,8/31/2018
+AI444-046,Canada,226,Planned,Not Recruiting,Hilzenrat,Nir,Jewish General Hospital,,,8/31/2018
+AI444-046,Canada,33,Clinically Complete,Recruiting,Ghesquiere,Wayne,Percuro Clinical Research Ltd,1/11/2018 0:00,2/7/2012 0:00,8/31/2018
+AI444-046,Canada,34,Clinically Complete,Recruiting,Lee,Samuel,Heritage Medical Research Clinic,2/6/2018 0:00,5/28/2012 0:00,8/31/2018
+AI444-046,Canada,35,Clinically Complete,Recruiting,Ramji,Alnoor,Gastrointestinal Research Institute (G.I.R.I.),1/31/2018 0:00,2/7/2012 0:00,8/31/2018
+AI444-046,Canada,36,Clinically Complete,Recruiting,Shafran,Stephen,University Of Alberta Hospital,3/29/2018 0:00,4/18/2012 0:00,8/31/2018
+AI444-046,Canada,38,Clinically Complete,Recruiting,Sherman,Morris,Toronto General Hospital,5/24/2017 0:00,7/31/2012 0:00,8/31/2018
+AI444-046,Canada,102,Clinically Complete,Recruiting,Shah,Hermant A.,Toronto General Hospital,6/14/2017 0:00,7/3/2012 0:00,8/31/2018
+AI444-046,Denmark,62,Clinically Complete,Completed,Weis,Nina,Hvidovre Hospital,6/17/2016 0:00,9/24/2012 0:00,8/31/2018
+AI444-046,Denmark,80,Clinically Complete,Completed,Brehm Christensen,Peer,Odense University Hospital,6/16/2016 0:00,8/29/2012 0:00,8/31/2018
+AI444-046,France,205,Clinically Complete,Completed,Loustaud-Ratti,Veronique,Chu De Limoges,8/29/2017 0:00,9/16/2013 0:00,8/31/2018
+AI444-046,France,46,Clinically Complete,Completed,Hezode,Christophe,Chu Henri Mondor,3/28/2017 0:00,6/14/2012 0:00,8/31/2018
+AI444-046,France,47,Clinically Complete,Completed,Ratziu,Vlad,Groupe Hospitalier Pitie Salpetriere,10/5/2017 0:00,6/27/2012 0:00,8/31/2018
+AI444-046,France,48,Clinically Complete,Completed,Zoulim,Fabien,Hopital De La Croix Rousse,10/5/2016 0:00,6/14/2012 0:00,8/31/2018
+AI444-046,France,49,Clinically Complete,Completed,De Ledinghen,Victor,Hopital Du Haut-Leveque,6/20/2017 0:00,5/22/2012 0:00,8/31/2018
+AI444-046,France,50,Cancelled,Not Applicable,Causse,Xavier,Hopital De La Source,,,8/31/2018
+AI444-046,France,51,Clinically Complete,Completed,Alric,Laurent,Chu Purpan - Hopital Casselardit,2/9/2017 0:00,11/18/2013 0:00,8/31/2018
+AI444-046,France,52,Clinically Complete,Terminated,Mathurin,Philippe,Chru De Lille - Hopital Claude Huriez,11/26/2013 0:00,6/8/2012 0:00,8/31/2018
+AI444-046,France,58,Clinically Complete,Completed,Larrey,Dominique,Hopital Saint Eloi,11/9/2017 0:00,6/19/2012 0:00,8/31/2018
+AI444-046,France,59,Clinically Complete,Completed,Marcellin,Patrick,Hopital Beaujon,12/20/2017 0:00,12/21/2012 0:00,8/31/2018
+AI444-046,France,60,Clinically Complete,Completed,Serfaty,Lawrence,Hopital Saint Antoine,9/12/2017 0:00,5/4/2012 0:00,8/31/2018
+AI444-046,France,61,Clinically Complete,Completed,Schnee,Matthieu,C.H.D. De La Roche-Sur-Yon,10/10/2016 0:00,7/17/2013 0:00,8/31/2018
+AI444-046,France,65,Clinically Complete,Completed,Pol,Stanislas,Hopital Cochin,9/28/2017 0:00,9/17/2012 0:00,8/31/2018
+AI444-046,France,66,Clinically Complete,Completed,Tran,Albert,Hopital De L'Archet 2,12/4/2017 0:00,6/21/2012 0:00,8/31/2018
+AI444-046,France,67,Clinically Complete,Completed,Bronowicki,Jean-Pierre,Hopital Adultes De Brabois,10/27/2017 0:00,11/14/2012 0:00,8/31/2018
+AI444-046,France,68,Clinically Complete,Completed,Bourliere,Marc,Hopital Saint Joseph,10/19/2017 0:00,6/25/2012 0:00,8/31/2018
+AI444-046,Germany,39,Clinically Complete,Completed,Zeuzem,Stefan,Johann Wolfgang Goethe Universitaet,6/28/2016 0:00,3/26/2012 0:00,8/31/2018
+AI444-046,Germany,40,Clinically Complete,Completed,Gerken,Guido,Universitaetsklinikum Essen,2/9/2017 0:00,3/15/2012 0:00,8/31/2018
+AI444-046,Germany,41,Clinically Complete,Completed,Pathil-Warth,Anita,Universitaetsklinik Heidelberg,3/8/2017 0:00,3/16/2012 0:00,8/31/2018
+AI444-046,Germany,42,Clinically Complete,Completed,Manns,Michael,Medizinische  Hochschule Hannover,7/14/2015 0:00,4/12/2012 0:00,8/31/2018
+AI444-046,Germany,43,Clinically Complete,Completed,Mauss,Stefan,Gemeinschaftspraxis,3/12/2015 0:00,3/15/2012 0:00,8/31/2018
+AI444-046,Germany,44,Clinically Complete,Completed,Petersen,Joerg,Ifi Institut Fur Interdisziplinare Medizin,6/11/2015 0:00,2/28/2012 0:00,8/31/2018
+AI444-046,Germany,45,Clinically Complete,Not Recruiting,Galle,Peter,Johannes -Gutenberg Universitat,2/23/2016 0:00,5/9/2012 0:00,8/31/2018
+AI444-046,Ireland,206,Clinically Complete,Completed,Norris,Suzanne,St. James'S Hospital,9/13/2017 0:00,11/29/2013 0:00,8/31/2018
+AI444-046,Ireland,78,Clinically Complete,Completed,Lambert,John,Mater Misericordiae University Hospital,8/16/2017 0:00,4/2/2013 0:00,8/31/2018
+AI444-046,Italy,207,Cancelled,Not Recruiting,Colombo,Massimo,Fondazione IRCCS Ca Granda Ospedale Maggiore Policlinico,,,8/31/2018
+AI444-046,Italy,208,Clinically Complete,Completed,Lazzarin,Adriano,Ospedale S. Raffaele Div. Mal. Inf.,3/13/2017 0:00,4/1/2014 0:00,8/31/2018
+AI444-046,Italy,211,Cancelled,Not Recruiting,Raimondo,Giovanni,Policlinico Universitario,,,8/31/2018
+AI444-046,Italy,95,Clinically Complete,Completed,Brunetto,Mauriziarossana,A.O.Univ. Pisana,11/3/2017 0:00,4/19/2012 0:00,8/31/2018
+AI444-046,Italy,96,Clinically Complete,Completed,Taliani,Gloria,Policlinico Umberto I,3/2/2016 0:00,8/3/2012 0:00,8/31/2018
+AI444-046,Italy,97,Clinically Complete,Completed,Smedile,Antonina,A.O.U. San Giovanni Battista Di Torino,3/14/2017 0:00,8/21/2012 0:00,8/31/2018
+AI444-046,Italy,98,Clinically Complete,Completed,Filice,Gaetano,Irccs Policlinico San Matteo,11/25/2015 0:00,11/29/2012 0:00,8/31/2018
+AI444-046,Italy,103,Clinically Complete,Completed,Castelli,Francesco,Spedali Civili,3/23/2016 0:00,10/9/2012 0:00,8/31/2018
+AI444-046,Japan,120,Clinically Complete,Completed,Inoue,Jun,Tohoku University Hospital,2/10/2016 0:00,12/14/2012 0:00,8/31/2018
+AI444-046,Japan,121,Clinically Complete,Completed,Mochida,Satoshi,Saitama Medical University Hospital,3/31/2016 0:00,11/9/2012 0:00,8/31/2018
+AI444-046,Japan,122,Clinically Complete,Completed,Izumi,Namiki,Musashino Red Cross Hospital,6/27/2016 0:00,1/10/2013 0:00,8/31/2018
+AI444-046,Japan,123,Clinically Complete,Completed,Koike,Kazuhiko,The University Of Tokyo Hospital,5/19/2016 0:00,1/18/2013 0:00,8/31/2018
+AI444-046,Japan,124,Clinically Complete,Completed,Uchikoshi,Manabu,Showa University Hospital,4/26/2016 0:00,1/29/2013 0:00,8/31/2018
+AI444-046,Japan,125,Clinically Complete,Completed,Shimakami,Tetsuro,Kanazawa University Hospital,6/6/2016 0:00,2/21/2013 0:00,8/31/2018
+AI444-046,Japan,126,Clinically Complete,Completed,Sakamoto,Minoru,Yamanashi University Hospital,12/21/2015 0:00,12/4/2012 0:00,8/31/2018
+AI444-046,Japan,127,Clinically Complete,Completed,Ishigami,Masatoshi,Nagoya University Hospital.,3/16/2016 0:00,1/10/2013 0:00,8/31/2018
+AI444-046,Japan,128,Clinically Complete,Completed,Toyoda,Hidenori,Ogaki Municipal Hospital,1/12/2016 0:00,12/4/2012 0:00,8/31/2018
+AI444-046,Japan,129,Clinically Complete,Completed,Takehara,Tetsuo,Osaka University Hospital,3/28/2016 0:00,1/7/2013 0:00,8/31/2018
+AI444-046,Japan,130,Clinically Complete,Completed,Kawada,Norifumi,Osaka City University Hospital,9/23/2016 0:00,1/15/2013 0:00,8/31/2018
+AI444-046,Japan,131,Clinically Complete,Completed,Hagiwara,Hideki,Kansai Rosai Hospital,2/9/2016 0:00,1/15/2013 0:00,8/31/2018
+AI444-046,Japan,132,Clinically Complete,Completed,Ikeda,Fusao,Okayama University Hospital,2/25/2016 0:00,2/8/2013 0:00,8/31/2018
+AI444-046,Japan,133,Clinically Complete,Completed,Takaguchi,Koichi,Kagawa Prefectural Central Hospital,4/26/2016 0:00,2/8/2013 0:00,8/31/2018
+AI444-046,Japan,134,Clinically Complete,Completed,Nakamuta,Makoto,National Hospital Organization Kyushu Med Ctr,6/20/2016 0:00,11/13/2012 0:00,8/31/2018
+AI444-046,Japan,135,Clinically Complete,Completed,Ide,Tatsuya,Kurume University Hospital,1/14/2016 0:00,11/30/2012 0:00,8/31/2018
+AI444-046,Japan,136,Clinically Complete,Completed,Ido,Akio,Kagoshima University Hospital,5/11/2016 0:00,11/7/2012 0:00,8/31/2018
+AI444-046,Japan,138,Clinically Complete,Completed,Kanda,Tatsuo,Chiba University Hospital,4/19/2016 0:00,12/20/2012 0:00,8/31/2018
+AI444-046,Japan,139,Clinically Complete,Completed,Okanoue,Takeshi,Saiseikai Suita Hospital,1/15/2016 0:00,12/21/2012 0:00,8/31/2018
+AI444-046,Japan,140,Clinically Complete,Completed,Kudo,Masatoshi,Kindai University Hospital,3/4/2016 0:00,10/17/2012 0:00,8/31/2018
+AI444-046,Japan,69,Clinically Complete,Completed,Karino,Yoshiyasu,Sapporo-Kosei General Hospital,3/30/2016 0:00,10/19/2012 0:00,8/31/2018
+AI444-046,Japan,70,Clinically Complete,Completed,Ikeda,Kenji,Toranomon Hospital,6/17/2016 0:00,10/19/2012 0:00,8/31/2018
+AI444-046,Japan,71,Clinically Complete,Completed,Kumada,Hiromitsu,Toranomon Hospital Kajigaya,6/17/2016 0:00,10/15/2012 0:00,8/31/2018
+AI444-046,Japan,72,Clinically Complete,Completed,Kawakami,Yoshiiku,Hiroshima University Hospital,1/15/2016 0:00,10/19/2012 0:00,8/31/2018
+AI444-046,"Korea, Republic of",180,Clinically Complete,Completed,Heo,Jeong,Pusan National University Hospital,4/7/2017 0:00,12/27/2013 0:00,8/31/2018
+AI444-046,"Korea, Republic of",181,Cancelled,Not Recruiting,Lee,Jin-Woo,Inha University Hospital,,,8/31/2018
+AI444-046,"Korea, Republic of",182,Clinically Complete,Completed,Han,Sang-Young,Dong-A University Hospital,4/6/2017 0:00,12/24/2013 0:00,8/31/2018
+AI444-046,"Korea, Republic of",183,Cancelled,Not Recruiting,Paik,Seung Woon,Samsung Medical Center,,,8/31/2018
+AI444-046,"Korea, Republic of",184,Cancelled,Not Recruiting,Tak,Won-Young,Kyungpook National University Hospital,,,8/31/2018
+AI444-046,"Korea, Republic of",185,Clinically Complete,Completed,Lee,Youn-Jae,Inje University Busan Paik Hospital,12/13/2016 0:00,12/24/2013 0:00,8/31/2018
+AI444-046,"Korea, Republic of",204,Clinically Complete,Completed,Yoon,Ki Tae,Pusan National University Yangsan Hospital,12/14/2016 0:00,12/27/2013 0:00,8/31/2018
+AI444-046,Mexico,92,Clinically Complete,Completed,Cabrera Alvarez,Guillermo,Clinica De Higado & Gastroenterologia Integral,12/4/2015 0:00,10/2/2012 0:00,8/31/2018
+AI444-046,Mexico,93,Clinically Complete,Completed,Cisneros Garza,Laura Esthela,Hospital San Jose Tec De Monterrey,12/15/2015 0:00,11/27/2012 0:00,8/31/2018
+AI444-046,Mexico,94,Clinically Complete,Completed,Perez Rios,Alma Minerva,Centro de Investigacion Farmaceutica Especializada,3/10/2016 0:00,10/3/2012 0:00,8/31/2018
+AI444-046,Poland,157,Cancelled,Not Recruiting,Knysz,Brygida,EMC Instytut Medyczny S.A Przychodnia przy ul. Lowieckiej,,,8/31/2018
+AI444-046,Poland,158,Active,Completed,Flisiak,Robert,Oddzial Chorob Watroby,,3/25/2014 0:00,8/31/2018
+AI444-046,Poland,159,Cancelled,Not Recruiting,Kryczka,Wieslaw,Wojewodzki Szpital Zespolony w Kielcach,,,8/31/2018
+AI444-046,Poland,160,Cancelled,Not Recruiting,Janczewska,Ewa,Id Clinic,,,8/31/2018
+AI444-046,Poland,161,Cancelled,Not Recruiting,Olszok,Iwona,Oddzial Obserwacyjno-Zakazny,,,8/31/2018
+AI444-046,Poland,162,Cancelled,Not Recruiting,Mazur,Wlodzimierz,Szpital Specjalistyczny w Chorzowie,,,8/31/2018
+AI444-046,Poland,163,Cancelled,Not Applicable,Simon,Krzysztof,Nzoz Centrum Badan Klinicznych,,,8/31/2018
+AI444-046,Puerto Rico,20,Clinically Complete,Completed,Ortiz-Lasanta,Grisell,Fundacion De Investigacion De Diego,1/10/2018 0:00,2/7/2012 0:00,8/31/2018
+AI444-046,Spain,197,Clinically Complete,Completed,Castillo Grau,Pilar,Hospital La Paz,5/11/2017 0:00,1/2/2014 0:00,8/31/2018
+AI444-046,Spain,198,Clinically Complete,Completed,Gonzalez Garcia,Juan,Hospital La Paz,3/15/2017 0:00,10/7/2013 0:00,8/31/2018
+AI444-046,Spain,199,Active,Completed,Pineda,Juan Antonio,Hospital Universitario De Valme,,10/30/2013 0:00,8/31/2018
+AI444-046,Spain,200,Clinically Complete,Completed,Molina,Esther,Comp. H. U. De Santiago,4/24/2017 0:00,2/4/2014 0:00,8/31/2018
+AI444-046,Spain,201,Active,Completed,Berenguer Berenguer,Juan,Hospital Gral. Univ. Gregorio Maranon,,10/8/2013 0:00,8/31/2018
+AI444-046,Spain,202,Active,Completed,Tural,Cristina,Hosp Unv Germans Trias I Pujol,,11/15/2013 0:00,8/31/2018
+AI444-046,Spain,209,Clinically Complete,Completed,Romero-Gomez,Manuel,Hospital Universitario De Valme,6/8/2017 0:00,2/17/2014 0:00,8/31/2018
+AI444-046,Spain,210,Planned,Completed,Fernandez,Conrado,Fundacion Hospital Alcorcon,8/25/2017 0:00,2/20/2014 0:00,8/31/2018
+AI444-046,Spain,53,Active,Completed,Buti Ferret,Maria,Hospital General Universitari Vall D'Hebron,,11/20/2012 0:00,8/31/2018
+AI444-046,Spain,54,Selected,Completed,Serra-Desfilis,Miguel Angel,Hospital Clinico Universitario De Valencia,2/23/2016 0:00,12/5/2012 0:00,8/31/2018
+AI444-046,Spain,55,Selected,"Active, Not Recruiting",Calleja,Jose Luis,Hosp. Univ. Puerta De Hierro,6/29/2015 0:00,3/1/2013 0:00,8/31/2018
+AI444-046,Spain,56,Clinically Complete,Completed,Bellot,Pablo,Hospital General De Alicante,6/8/2017 0:00,12/7/2012 0:00,8/31/2018
+AI444-046,Spain,57,Selected,Completed,Andrade,Raul,Hospital Universitario Virgen De La Victoria,6/26/2017 0:00,10/30/2012 0:00,8/31/2018
+AI444-046,Sweden,63,Clinically Complete,Completed,Weiland,Ola,"Karolinska University Hospital, Huddinge",9/28/2016 0:00,6/4/2012 0:00,8/31/2018
+AI444-046,Sweden,64,Clinically Complete,Completed,Norkrans,Gunnar,Sahlgrenska University Hospital/Ostra,8/17/2016 0:00,5/4/2012 0:00,8/31/2018
+AI444-046,Taiwan,186,Clinically Complete,Completed,Peng,Cheng-Yuan,China Medical University Hospital,4/18/2017 0:00,11/15/2013 0:00,8/31/2018
+AI444-046,Taiwan,187,Cancelled,Not Recruiting,Lin,Chun-Che,Chung-Shan Medical University Hospital,,,8/31/2018
+AI444-046,Taiwan,188,Cancelled,Not Recruiting,Kao,Jia-Horng,National Taiwan University Hospital,,,8/31/2018
+AI444-046,Taiwan,189,Cancelled,Not Recruiting,Chang,Ting-Tsung,National Cheng Kung University Hospital,,,8/31/2018
+AI444-046,Taiwan,196,Cancelled,Not Recruiting,Chu,Chi-Jen,Taipei Veterans General Hospital,,,8/31/2018
+AI444-046,USA,1,Clinically Complete,Completed,Bhalla,Narinder,Alabama Liver & Digestive Specialists (Alds),1/16/2014 0:00,3/30/2012 0:00,8/31/2018
+AI444-046,USA,2,Clinically Complete,Completed,Ankoma-Sey,Victor,Liver Associates Of Texas,10/14/2015 0:00,3/2/2012 0:00,8/31/2018
+AI444-046,USA,3,Cancelled,Cancelled,Brau,Norbert,James J Peters Vamc,,,8/31/2018
+AI444-046,USA,4,Clinically Complete,Completed,Di Bisceglie,Adrian,Saint Louis University,4/4/2016 0:00,4/25/2013 0:00,8/31/2018
+AI444-046,USA,5,Cancelled,Cancelled,Enayati,Pedram,California Liver Institute,,,8/31/2018
+AI444-046,USA,6,Clinically Complete,Completed,Everson,Gregory,University Of Colorado Denver & Hospital,11/14/2017 0:00,4/2/2012 0:00,8/31/2018
+AI444-046,USA,7,Clinically Complete,Completed,Fried,Michael,University Of North Carolina At Chapel Hill School Of Med,1/25/2017 0:00,3/13/2013 0:00,8/31/2018
+AI444-046,USA,8,Clinically Complete,Completed,Ghalib,Reem,Texas Clinical Research Institute,4/2/2018 0:00,9/4/2012 0:00,8/31/2018
+AI444-046,USA,9,Cancelled,Cancelled,Good,Gary,"Upper Delaware Valley Infectious Diseases, Pc",,,8/31/2018
+AI444-046,USA,10,Clinically Complete,Completed,Lawitz,Eric,Alamo Medical Research,5/29/2018 0:00,3/6/2012 0:00,8/31/2018
+AI444-046,USA,11,Clinically Complete,Completed,Levin,James,Ssm Health Dean Med Group,3/21/2018 0:00,4/19/2012 0:00,8/31/2018
+AI444-046,USA,117,Cancelled,Cancelled,Barry,Curtis,UMass Memorial Medical Center,,,8/31/2018
+AI444-046,USA,12,Clinically Complete,Completed,Lim,Joseph,Yale New Haven Hospital,5/3/2017 0:00,11/12/2012 0:00,8/31/2018
+AI444-046,USA,13,Cancelled,Cancelled,Maliakkal,Benedict,University Of Rochester Medical Center,,,8/31/2018
+AI444-046,USA,137,Clinically Complete,Completed,Styne,Phillip,Florida Hospital Transplant Center,7/7/2014 0:00,11/20/2012 0:00,8/31/2018
+AI444-046,USA,14,Clinically Complete,Completed,Morris,David,Healthcare Research Consultants,2/21/2018 0:00,5/2/2012 0:00,8/31/2018
+AI444-046,USA,141,Clinically Complete,Completed,Park,James Sungsik,Nyu Medical Center,8/19/2016 0:00,1/17/2013 0:00,8/31/2018
+AI444-046,USA,142,Clinically Complete,Completed,Masuoka,Howard,Indiana University,3/22/2018 0:00,2/27/2013 0:00,8/31/2018
+AI444-046,USA,148,Cancelled,Cancelled,Jacobson,Ira,Weill Cornell Medical College,,,8/31/2018
+AI444-046,USA,149,Cancelled,Cancelled,Fessel,Walford Jeffrey,Kaiser Permanente Medical Center,,,8/31/2018
+AI444-046,USA,15,Cancelled,Cancelled,Nelson,David,UF Health Clinical Research Center,,,8/31/2018
+AI444-046,USA,150,Clinically Complete,Completed,Hassanein,Tarek,Southern California Research Center,6/13/2017 0:00,10/14/2013 0:00,8/31/2018
+AI444-046,USA,151,Clinically Complete,Completed,Hinestrosa,Federico,Orlando Immunology Center,3/12/2018 0:00,3/6/2013 0:00,8/31/2018
+AI444-046,USA,152,Clinically Complete,Completed,Bennett,Michael,Medical Associates Research Group,8/13/2018 0:00,3/11/2013 0:00,8/31/2018
+AI444-046,USA,153,Clinically Complete,Completed,Luketic,Velimir,Mcguire Dvamc,12/11/2017 0:00,3/15/2013 0:00,8/31/2018
+AI444-046,USA,154,Cancelled,Cancelled,Harrison,Stephen,Brooke Army Medical Center,,,8/31/2018
+AI444-046,USA,155,Clinically Complete,Completed,Zamor,Philippe,Carolinas Medical Center,11/3/2016 0:00,4/16/2013 0:00,8/31/2018
+AI444-046,USA,156,Cancelled,Cancelled,Towner,William,Southern California Permanente Medical Group,,,8/31/2018
+AI444-046,USA,16,Clinically Complete,Completed,O'Brien,Christopher,Schiff Center for Liver Diseases,4/6/2018 0:00,4/16/2013 0:00,8/31/2018
+AI444-046,USA,164,Cancelled,Cancelled,Nguyen,Tuan,"Research And Education, Inc.",,,8/31/2018
+AI444-046,USA,17,Clinically Complete,Completed,Pockros,Paul,Scripps Clinic,11/28/2017 0:00,4/20/2012 0:00,8/31/2018
+AI444-046,USA,173,Cancelled,Cancelled,Bernstein,David,North Shore University Hospital,,,8/31/2018
+AI444-046,USA,174,Cancelled,Cancelled,Gordon,Stuart,Henry Ford Health System,,,8/31/2018
+AI444-046,USA,175,Clinically Complete,Completed,Yoffe,Boris,MEDVAMC,11/9/2016 0:00,7/26/2013 0:00,8/31/2018
+AI444-046,USA,178,Clinically Complete,Completed,Webster,Lynn,Lifetree Clinical Research,8/8/2017 0:00,8/15/2013 0:00,8/31/2018
+AI444-046,USA,179,Cancelled,Cancelled,Firpi-Morell,Roberto,UF Health Clinical Research Center,,,8/31/2018
+AI444-046,USA,18,Clinically Complete,Completed,Ravendhran,Natarajan,"Digestive Disease Associates, P.A.",3/26/2018 0:00,7/31/2013 0:00,8/31/2018
+AI444-046,USA,19,Clinically Complete,Completed,Reindollar,Robert,Carolinas Center For Liver Disease,11/9/2017 0:00,2/7/2012 0:00,8/31/2018
+AI444-046,USA,190,Cancelled,Cancelled,Sherman,Kenneth,University of Cincinnati Physicians Company,,,8/31/2018
+AI444-046,USA,191,Cancelled,Cancelled,Pungpapong,Surakit,Mayo Clinic Transplant Department,,,8/31/2018
+AI444-046,USA,193,Cancelled,Cancelled,Kugelmas,Marcelo,"South Denver Gastroenterology, Pc",,,8/31/2018
+AI444-046,USA,194,Clinically Complete,Completed,Jayaweera,Dushyantha,University Of Miami School Of Medicine,9/8/2016 0:00,9/12/2013 0:00,8/31/2018
+AI444-046,USA,195,Clinically Complete,Completed,Desta,Taddese,"Precision Research Institute, Llc",3/13/2018 0:00,10/17/2013 0:00,8/31/2018
+AI444-046,USA,203,Clinically Complete,Completed,Rafiq,Nila,Inova Fairfax Hospital,3/22/2018 0:00,9/18/2013 0:00,8/31/2018
+AI444-046,USA,21,Clinically Complete,Completed,Rustgi,Vinod,Metropolitan Research,2/27/2014 0:00,2/8/2012 0:00,8/31/2018
+AI444-046,USA,212,Clinically Complete,Completed,Adams,James,Southwest Care Center,4/3/2018 0:00,7/3/2014 0:00,8/31/2018
+AI444-046,USA,213,Clinically Complete,Completed,Landis,Charles,Harborview Medical Center,3/19/2018 0:00,1/30/2015 0:00,8/31/2018
+AI444-046,USA,214,Clinically Complete,Completed,Pushkin,Richard,Quest Clinical Research,3/12/2018 0:00,10/1/2014 0:00,8/31/2018
+AI444-046,USA,215,Clinically Complete,Completed,Mills,Anthony,Anthony M. Mills Md Inc,5/17/2018 0:00,1/2/2015 0:00,8/31/2018
+AI444-046,USA,216,Clinically Complete,Completed,Ruane,Peter,Peter J Ruane Md Inc,2/1/2018 0:00,11/13/2014 0:00,8/31/2018
+AI444-046,USA,217,Clinically Complete,Completed,Scarsella,Anthony,Pacific Oaks Medical Group,4/12/2018 0:00,10/24/2014 0:00,8/31/2018
+AI444-046,USA,218,Clinically Complete,Completed,Yozviak,Joseph,Lehigh Valley Health Network,3/13/2018 0:00,1/8/2015 0:00,8/31/2018
+AI444-046,USA,22,Cancelled,Cancelled,Schwartz,Howard,Miami Research Associates,,,8/31/2018
+AI444-046,USA,221,Clinically Complete,Completed,Shiffman,Mitchell,"Bon Secours St. Mary's Hospital of Richmond, Inc.",4/5/2018 0:00,10/10/2017 0:00,8/31/2018
+AI444-046,USA,222,Clinically Complete,Completed,Huhn,Gregory,Ruth M. Rothstein CORE Center,4/5/2018 0:00,10/25/2017 0:00,8/31/2018
+AI444-046,USA,223,Clinically Complete,Completed,Kim,Brian,"Keck Medical Center of USC, HCC 1",3/22/2018 0:00,9/12/2017 0:00,8/31/2018
+AI444-046,USA,224,Cancelled,Cancelled,Peyton,Adam,Eastern Pennsylvania Gastroenterology and Liver Specialists,,,8/31/2018
+AI444-046,USA,225,Clinically Complete,Completed,Sheikh,Aasim,Gastrointestinal Specialists Of Georgia,3/29/2018 0:00,9/6/2017 0:00,8/31/2018
+AI444-046,USA,227,Clinically Complete,Completed,Terrault,Norah,U.Cal.-San Francisco,4/3/2018 0:00,11/28/2017 0:00,8/31/2018
+AI444-046,USA,228,Cancelled,Cancelled,Mantry,Parvez,The Liver Institute At Methodist Dallas,,,8/31/2018
+AI444-046,USA,23,Cancelled,Cancelled,Sepe,Thomas,University Gastroenterology,,,8/31/2018
+AI444-046,USA,24,Clinically Complete,Completed,Sulkowski,Mark,Johns Hopkins University,6/11/2014 0:00,12/3/2013 0:00,8/31/2018
+AI444-046,USA,25,Clinically Complete,Completed,Tatum,Harvey,Mayo Clinic Rochester,11/8/2017 0:00,3/16/2012 0:00,8/31/2018
+AI444-046,USA,26,Clinically Complete,Completed,Thuluvath,Paul,Mercy Medical Center,1/31/2018 0:00,4/11/2012 0:00,8/31/2018
+AI444-046,USA,27,Clinically Complete,Completed,Vierling,John,Baylor College Of Medicine,3/29/2018 0:00,5/14/2012 0:00,8/31/2018
+AI444-046,USA,28,Clinically Complete,Completed,Martorell,Claudia,The Research Institute,7/30/2013 0:00,7/23/2012 0:00,8/31/2018
+AI444-046,USA,37,Clinically Complete,Completed,Reddy,Rajender,University Of Pennsylvania School Of Medicine,2/6/2018 0:00,7/23/2013 0:00,8/31/2018
+AI444-046,USA,99,Clinically Complete,Completed,Lok,Anna,University Of Michigan,4/26/2018 0:00,7/10/2012 0:00,8/31/2018
+AI444-046,USA,100,Clinically Complete,Completed,Younes,Ziad,Gastro One,11/30/2017 0:00,7/3/2013 0:00,8/31/2018
+AI444-046,USA,118,Clinically Complete,Completed,Zaman,Atif,Oregon Health & Science University,3/6/2018 0:00,4/17/2013 0:00,8/31/2018
+AI444-046,USA,119,Clinically Complete,Completed,Pruitt,Ronald,Nashville Medical Research Institute,11/23/2015 0:00,11/28/2012 0:00,8/31/2018
+AI444-046,United Kingdom,143,Cancelled,Not Recruiting,Nelson,Mark,Chelsea And Westminster Hospital,,,8/31/2018
+AI444-046,United Kingdom,144,Clinically Complete,Completed,Forton,Daniel,St. George'S Healthcare Nhs Trust,3/15/2018 0:00,3/4/2014 0:00,8/31/2018
+AI444-046,United Kingdom,145,Cancelled,Not Recruiting,Leen,Clifford,Western General Hospital,,,8/31/2018
+AI444-046,United Kingdom,146,Cancelled,Not Recruiting,Mutimer,David,Queen Elizabeth Hospital,,,8/31/2018
+AI444-046,United Kingdom,147,Cancelled,Not Recruiting,Fox,Ray,Gartnaval General Hospital,,,8/31/2018
+AI444-046,United Kingdom,73,Clinically Complete,Completed,Agarwal,Kosh,Kings College Hospital,5/8/2018 0:00,8/31/2012 0:00,8/31/2018
+AI444-046,United Kingdom,74,Clinically Complete,Completed,Brown,Ashley,Imperial College London,4/20/2018 0:00,9/3/2012 0:00,8/31/2018
+AI444-046,United Kingdom,75,Cancelled,Cancelled,Foster,Graham,Barts And The London School Of Medicine And Dentistry,,,8/31/2018
+AI444-046,United Kingdom,76,Clinically Complete,Completed,Priest,Matthew,Gartnaval General Hospital,11/3/2015 0:00,7/19/2012 0:00,8/31/2018
+AI444-222,United Kingdom,77,Clinically Complete,Completed,Uriel,Alison,North Manchester General Hospital,4/13/2018 0:00,7/19/2012 0:00,8/31/2018
+AI444-235,France,1,Active,Not Applicable,Delfraissy,Jean-Francois,IINSERM/ANRS,,12/13/2012 0:00,8/31/2018
+AI444-244,USA,1,Active,Not Applicable,Choi,Jinah,University of California at Merced,,3/6/2014 0:00,8/31/2018
+AI444-279,Japan,1,Active,Completed,Kishimoto,Hiroshi,"Parexel International Inc, Japan",,9/3/2014 0:00,8/31/2018
+AI444-284,Japan,1,Active,Not Applicable,Shimakami,Tetsuro,Kanazawa University Hospital,,6/2/2014 0:00,8/31/2018
+AI444-285,USA,1,Selected,Completed,Hassanein,Tarek,Southern California Research Center,8/1/2017 0:00,1/12/2015 0:00,8/31/2018
+AI444-288,United Kingdom,1,Active,Not Applicable,Khoo,Saye,Royal Liverpool University Hospital,,6/23/2014 0:00,8/31/2018
+AI444-330,Japan,1,Active,Not Applicable,Takehara,Tetsuo,Osaka University Hospital,,7/17/2014 0:00,8/31/2018
+AI444-330,Mexico,1,Active,Recruiting,Mendez-Sanchez,Nahum,Medica Sur Clinic And Foundation,,10/21/2015 0:00,8/31/2018
+AI444-330,Mexico,2,Selected,Not Recruiting,Dehesa Violante,Margarita,Hospital Santa Coleta,,,8/31/2018
+AI444-330,Mexico,3,Planned,Not Recruiting,Mata-Marin,Jose Antonio,Hospital De Especialidades Centro Medico Nacional La Raza,,,8/31/2018
+AI444-333,Mexico,4,Planned,Not Recruiting,Cisneros Garza,Laura Esthela,Hospital San Jose Tec De Monterrey,,,8/31/2018
+AI444-334,Germany,1,Active,"Active, Not Recruiting",Wedemeyer,Heiner,Medizinische Hochschule Hannover,,9/22/2014 0:00,8/31/2018
+AI444-335,USA,1,Active,Not Applicable,Brown,Ashley,University Of Florida,,3/6/2015 0:00,8/31/2018
+AI444-337,"Korea, Republic of",1,Active,Recruiting,Kim,Sanghee,A Plus Seoul Inc.,,10/6/2015 0:00,8/31/2018
+AI444-348,Japan,1,Active,"Active, Not Recruiting",Ido,Akio,Kagoshima University Hospital,,11/20/2015 0:00,8/31/2018
+AI444-350,Australia,1,Active,Not Applicable,Morton,Craig,St. Vincent's Institute,,2/25/2015 0:00,8/31/2018
+AI444-361,United Kingdom,1,Active,Recruiting,Dillon,John,University of Dundee,,6/21/2016 0:00,8/31/2018
+AI444-363,United Kingdom,1,Active,Not Applicable,Khoo,Saye,Royal Liverpool University Hospital,,9/29/2015 0:00,8/31/2018
